@@ -1,0 +1,28 @@
+  .thumb {
+      height: 25px;
+      width: 25px;
+      background-color: #566ef7;
+      border-radius: 50%;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      outline: none;
+  }
+
+  .track {
+      top: 0;
+      bottom: 0;
+      background: #ddd;
+      border-radius: 999px;
+  }
+
+  .track-1 {
+      background: #566ef7;
+  }
+
+  .slider-values {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 10px;
+  }
